@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost"; 
 $username = "root";
-$password = "kkkhansa"; 
+$password = "*"; 
 $dbname = "experian";
  
 // Create connection
